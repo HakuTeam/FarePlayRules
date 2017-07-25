@@ -13,5 +13,9 @@ The first project is: https://github.com/HakuTeam/AlphaBomberman
 6. If I have time and want to work, I ask team members for a new task or I take a task from the list Back Log here: https://github.com/HakuTeam/AlphaBomberman/projects/1
 7. If I do not agree with something, I tell explain my concerns to other members as soon as possible
 
+## Commit rules
+- Commit working code as soon as possible;
+- Try to make all style corrections and refactoring in a separate comit. For example improvements by ReSharper ot StyleCop go to a separate comit as they do not change functionality;
+
 ## Work process
  - To do: List work process rules and links to related documents
